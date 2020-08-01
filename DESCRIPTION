@@ -1,0 +1,10 @@
+Package: nothing
+Type: Package
+Title: The Package Nothing to Do
+Version: 0.1.0
+Author: Kenta Tanaka
+Maintainer: Kenta Tanaka <joe@example.com>
+Description: This package is simple example for package installing. This package contains nothing.
+License: MIT License
+Encoding: UTF-8
+LazyData: true
